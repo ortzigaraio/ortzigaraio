@@ -24,7 +24,7 @@ Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial<
 ```javascript
 const ortzi = {
   pronouns: "He" | "Him",
-  code: ["Python", "R", "SQL", "JavaScript","Spark",],
+  code: ["Python", "R", "SQL", "JavaScript","Spark"],
   askMeAbout: ["machine learning", "deep learning", "nlp", "data viz","RNN-CNN","Agent","RAG"],
   technologies: {
     libraries: ["Pandas", "Scikit-Learn", "PyTorch", "Plotly"],
