@@ -15,7 +15,7 @@ Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial<
 <ul>
   <li>👋 Hola, soy @ortzigaraio</li>
   <li>❤️ Me encanta el Modelado Predictivo y la Visualización de Datos.</li>
-  <li>🌱 Actualmente profundizando en NLP, Transformers y arquitecturas en AWS.</li>
+  <li>🌱 Actualmente profundizando en NLP, Transformers y arquitecturas en AWS-Docker.</li>
   <li>💼 Data Scientist enfocado en transformar datos complejos en historias visuales.</li>
   <li>🧐 Portfolio: <a href="https://ortzigaraio.github.io">ortzigaraio.github.io</a></li>
 </ul>
@@ -24,8 +24,8 @@ Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial<
 ```javascript
 const ortzi = {
   pronouns: "He" | "Him",
-  code: ["Python", "R", "SQL", "JavaScript"],
-  askMeAbout: ["machine learning", "deep learning", "nlp", "data viz"],
+  code: ["Python", "R", "SQL", "JavaScript","Spark",],
+  askMeAbout: ["machine learning", "deep learning", "nlp", "data viz","RNN-CNN","Agent","RAG"],
   technologies: {
     libraries: ["Pandas", "Scikit-Learn", "PyTorch", "Plotly"],
     visualization: ["Matplotlib", "Seaborn", "Power BI", "Streamlit"],
