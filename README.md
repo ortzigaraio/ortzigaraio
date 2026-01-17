@@ -24,11 +24,24 @@ Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial<
 ```javascript
 const ortzi = {
   pronouns: "He" | "Him",
-  code: ["Python", "R", "SQL", "JavaScript","Spark"],
-  askMeAbout: ["machine learning", "deep learning", "nlp", "data viz","RNN-CNN","Agent","RAG"],
+  role: "Data Scientist & AI Engineer",
+  
+  // Áreas de especialización (IA Moderna)
+  focus: ["Generative AI", "RAG Systems", "AI Agents", "Large Language Models"],
+  
+  code: ["Python", "SQL", "JavaScript", "R", "Spark"],
+  
+  askMeAbout: {
+    classic: ["Machine Learning", "Deep Learning", "NLP"],
+    architectures: ["CNN", "RNN", "Transformers"],
+    modern_stack: ["RAG", "Autonomous Agents", "MCP (Model Context Protocol)"]
+  },
+
   technologies: {
-    libraries: ["Pandas", "Scikit-Learn", "PyTorch", "Plotly"],
-    visualization: ["Matplotlib", "Seaborn", "Power BI", "Streamlit"],
-    cloud: ["AWS", "Docker"]
-  }
-}
+    frameworks: ["PyTorch", "Scikit-Learn", "LangChain", "LlamaIndex"],
+    tools: ["Docker", "AWS", "Git", "MLflow"],
+    visualization: ["Streamlit", "Power BI", "Plotly"]
+  },
+  
+  current_challenge: "Optimizing cosine similarity in high-dimensional vector stores"
+};
