@@ -24,9 +24,8 @@ Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial<
 ```javascript
 const ortzi = {
   pronouns: "He" | "Him",
-  role: "Data Scientist & AI Engineer",
+  role: "Data Scientist & AI Enthusiast",
   
-  // Áreas de especialización (IA Moderna)
   focus: ["Generative AI", "RAG Systems", "AI Agents", "Large Language Models"],
   
   code: ["Python", "SQL", "JavaScript", "R", "Spark"],
@@ -38,7 +37,7 @@ const ortzi = {
   },
 
   technologies: {
-    frameworks: ["PyTorch", "Scikit-Learn", "LangChain", "LlamaIndex"],
+    frameworks: ["PyTorch", "Scikit-Learn", "LangChain"],
     tools: ["Docker", "AWS", "Git", "MLflow"],
     visualization: ["Streamlit", "Power BI", "Plotly"]
   },
