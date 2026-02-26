@@ -26,7 +26,7 @@ const ortzi = {
   pronouns: "He" | "Him",
   role: "Data Scientist & AI Enthusiast",
   
-  focus: ["Generative AI", "RAG Systems", "AI Agents", "Large Language Models"],
+  focus: ["Generative AI", "RAG Systems", "AI Agents","Prompt Engineering"],
   
   code: ["Python", "SQL", "JavaScript", "R", "Spark"],
   
@@ -38,8 +38,8 @@ const ortzi = {
 
   technologies: {
     frameworks: ["PyTorch", "Scikit-Learn", "LangChain"],
-    tools: ["Docker", "AWS", "Git", "MLflow"],
-    visualization: ["Streamlit", "Power BI", "Plotly"]
+    tools: ["Docker", "AWS", "Git", "MLflow", "Power Automate"],
+    visualization: ["Streamlit", "Power BI", "Plotly",]
   },
   
   current_challenge: "Optimizing cosine similarity in high-dimensional vector stores"
