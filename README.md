@@ -40,6 +40,4 @@ const ortzi = {
     tools: ["Docker", "AWS", "Git", "MLflow", "Power Automate"],
     visualization: ["Streamlit", "Power BI", "Plotly",]
   },
-  
-  current_challenge: "Optimizing cosine similarity in high-dimensional vector stores"
 };
