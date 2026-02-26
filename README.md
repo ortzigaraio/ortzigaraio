@@ -14,9 +14,8 @@ Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial<
 
 <ul>
   <li>👋 Hola, soy @ortzigaraio</li>
-  <li>❤️ Me encanta el Modelado Predictivo y la Visualización de Datos.</li>
-  <li>🌱 Actualmente profundizando en NLP, Transformers y arquitecturas en AWS-Docker.</li>
-  <li>💼 Data Scientist enfocado en transformar datos complejos en historias visuales.</li>
+  <li>❤️ Me encanta el Modelado Predictivo y sacar conclusiones de ello.</li>
+  <li>🌱 Actualmente profundizando en RAG, OCR y arquitecturas en AWS-Docker.</li>
   <li>🧐 Portfolio: <a href="https://ortzigaraio.github.io">ortzigaraio.github.io</a></li>
 </ul>
 
