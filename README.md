@@ -9,7 +9,7 @@
 </p>
 
 <p>
-Soy un apasionado de la <b>Ciencia de Datos</b> y la <b>Inteligencia Artificial</b>. Me gusta construir soluciones claras y mantenibles que conecten buenos modelos con problemas de negocio reales y medibles.
+I'm currently exploring advanced knowledge graph, vector, and memory systems (Hybrid RAG, KAG, & CAG) with tools like Cloudflare Agents, OpenAI Agents SDK, Qdrant, Graphiti/Zed, Neo4j, pgvector, and FastMCP. I'm integrating these into my agentic workflows and applications for shared memory systems.
 </p>
 
 <ul>
