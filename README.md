@@ -24,7 +24,7 @@ const ortzi = {
   pronouns: "He" | "Him",
   role: "Data Scientist & AI Enthusiast",
   
-  focus: ["Generative AI", "RAG Systems", "AI Agents","Prompt Engineering"],
+  focus: ["Generative AI", "RAG Systems", "AI Agents","Prompt Engineering "],
   
   code: ["Python", "SQL", "JavaScript", "R", "Spark"],
   
