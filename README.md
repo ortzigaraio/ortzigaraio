@@ -13,9 +13,9 @@ I'm currently exploring advanced knowledge graph, vector, and memory systems (Hy
 </p>
 
 <ul>
-  <li>👋 Hola, soy @ortzigaraio</li>
-  <li>❤️ Me encanta el Modelado Predictivo y sacar conclusiones de ello.</li>
-  <li>🌱 Actualmente profundizando en RAG, OCR y arquitecturas en AWS-Docker.</li>
+  <li>Hola, soy @ortzigaraio</li>
+  <li> Me encanta el Modelado Predictivo y sacar conclusiones de ello.</li>
+  <li> Actualmente profundizando en RAG, OCR y arquitecturas en AWS-Docker.</li>
 </ul>
 
 #### 🛠️ My Data Science Stack
